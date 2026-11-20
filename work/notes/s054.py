@@ -1,0 +1,20 @@
+# --- s054 Book I d.18 q.2
+n("n855","s054-01","vtrum illud positiuum caritatis preexistentis quod manet in aucto sit tota essentia caritatis intense","la","source","Corresponds to Scotus, *Ord.* I d. 17 p. 2 q. 2, whose title is almost verbatim the same.","to-verify")
+n("n856","s054-01","Forme sunt sicut numeri","la","intertext","Aristotle, *Metaph.* VIII 3, 1043b33–1044a11 (substances/definitions are like numbers: adding or removing a part changes the species). This is the classic *auctoritas* *formae sunt sicut numeri*.","certain")
+n("n857","s054-02","prima secunde. q. 52. articulo. 1. et. 2.","la","source","Thomas, *ST* I-II q. 52 aa. 1–2 (on the increase of habits: by participation of the subject, not by addition).","verified")
+n("n858","s054-02","Egidii de roma quodlibeto. 2°. q. 14. et quodlibeto. 6. q. 9.","la","source","Giles of Rome, *Quodl.* II q. 14 and VI q. 9; B agrees (*xiiii … vi. q. ix*). As in s053, Gorris keys lemmas of Scotus's text to sources. Not checked against Giles's *Quodlibeta* (Louvain 1646).","to-verify")
+n("n859","s054-02","Henrici quodlibeto. 14. q. 3.","la","source","Henry of Ghent, *Quodl.* XIV q. 3 (B *xiiii. q. iii*).","to-verify")
+n("n860","s054-02","amotione contrarii","la","textual","Thus A. B reads *amore cõtrarii*, an error.","verified")
+n("n861","s054-03","⟨in prima⟩","la","textual","A seems to read *in prima*, which gives no sense. B reads *in patria* (in heaven), which the translation follows. A probably misread an abbreviation *pr̄ia*.","verified")
+n("n862","s054-03","homo magnus haberet maiorem caritatem","la","doctrinal","The first conclusion rejects explaining intensity by extension (the size of subject or form). The second to fifth reject in turn: nearness to a contrary, nearness to the term giving the name, disposition of the subject, and rooting (*radicatio*, Thomas's and Giles's view). The sixth gives Scotus's thesis of a latitude of degrees within the form. Compare *Ord.* I d. 17 p. 2 q. 2.","to-verify")
+n("n863","s054-05","teste Aristotele. 8. methaphisices","la","intertext","*Metaph.* VIII 3, 1044a9–11: the definition, like number, is indivisible (*in indivisibili consistit*).","to-verify")
+n("n864","s054-06","2°. et 3°. ethicorum","la","intertext","*Eth. Nic.* II 1–2 (virtue arises and is destroyed through like acts) and III 5. The precise passages are not specified by Gorris.","to-verify")
+n("n865","s054-06","caritas infusa nunquam de facto diminuitur","la","doctrinal","Compare Thomas, *ST* II-II q. 24 a. 10, and Scotus's treatment of the diminution of charity. Neither mortal nor venial sin diminishes infused charity: mortal sin destroys it, and venial sin leaves it intact.","to-verify")
+n("n866","s054-03","[in heaven]","en","translation","Following B *in patria*; A reads *in prima*.")
+n("n867","s054-01","positive [reality]","en","translation","*positiuum*: the positive reality of the earlier, remiss charity.")
+
+# --- B collation (full): B72L–B73R
+upd("n858", append="On a full reading B's first numeral is printed *xx* (*quolibeto. xx. q. xiiij*), presumably a misreading of A's *2°*; Giles wrote only six Quodlibets.")
+n("n1004","s054-03","nihil esset caritatiuum nisi esset in summo","la","textual","B apparently *nihil esset caritatiuum nec esset in summo*, which gives no sense; A is right.","certain")
+n("n1005","s054-06","Secunda conclusio quod","la","textual","B: *Tercia conclusio quod caritas infusa nunquam*, a numbering slip (B then also has *Tercia conclusio* for the next one).","certain")
+n("n1006","s054-06","nec diminutam cum illud non tollat eam","la","textual","B om.","certain")

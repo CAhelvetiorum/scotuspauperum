@@ -1,0 +1,17 @@
+# --- s050 Book I d.16 q.un.
+n("n800","s050-01","vtrum in missione visibili spiritus sancti spiritus sanctus referatur ad creaturam","la","source","Scotus treats the visible mission in *Ord.* I dd. 14–16. The question whether God is related to the creature by a real relation is Scotus's *Ord.* I d. 30 qq. 1–2. Which text Gorris abridges here has not been checked.","to-verify")
+n("n801","s050-01","primo in specie columbe","la","intertext","The four visible species: the dove at the Baptism (Mt 3:16), the bright cloud at the Transfiguration (Mt 17:5), the breath (Jn 20:22, *insufflavit*), and the tongues of fire (Acts 2:3). The same list of four, with similar purposes, appears in Thomas, *ST* I q. 43 a. 7 ad 6.","to-verify")
+n("n802","s050-03","relatione fundamentali","la","doctrinal","*Relatio fundamentalis*: God is ‘related’ only in that his being is the foundation of the creature's real relation to him. It is neither a real relation nor a relation of reason. The term has not been traced to a particular Scotist author.","to-verify")
+n("n803","s050-03","nec per actum rationis diuine vt dicit Henricus","la","source","Henry of Ghent held that God's relations to creatures are relations of reason caused by the divine intellect. Scotus reports and rejects this in *Ord.* I d. 30 qq. 1–2. Henry's own locus (*Summa* or *Quodlibet*) has not been verified.","to-verify")
+n("n804","s050-04","Spiritus sanctus visus est in specie columbe","la","source","Quoted as the words of the Church. Compare Lk 3:22 (*descendit Spiritus Sanctus corporali specie sicut columba*). The liturgical text has not been identified.","to-verify")
+n("n805","s050-04","aliqui dicunt quod non fuit vera columba","la","intertext","Whether the dove was a true animal is discussed by Augustine, *De Trin.* II 6.11, and reported by Lombard, *Sent.* I d. 16. The *aliqui* have not been identified.","to-verify")
+n("n806","s050-04","secundum Augustinum spiritus sanctus infallibiliter ostendit se","la","source","Not located in Augustine.","to-verify")
+n("n807","s050-04","desinerunt","la","textual","Thus A and B (*desinerũt*), for *desierunt*. Kept as printed.","verified")
+n("n808","s050-01","Circa distinctionem decimamsextam","la","historical","p. 81 (A, BSB copy) carries two manuscript annotations. At the top right is a number, perhaps a folio count (‘42’?). In the lower margin, in a cursive hand, partly cropped: *q[uesti]o no[n] e[st] ibi f… vide bonau[en]t[uram] … q. ultima et th[omam] ibidem*, i.e. a reader referring to Bonaventure and Thomas on this distinction.","uncertain")
+n("n809","s050-03","inequalitas et prioritas sunt relationes fundamentales","la","textual","B (leaf 68v) agrees, *relatõe fundamentali … relatões fundamẽtales*, and abbreviates the name *Hen.* No substantive variant.","verified")
+n("n810","s050-03","fundamental relation","en","translation","*relatio fundamentalis*: a relation only on the side of the foundation. It is not a real relation in God.")
+n("n811","s050-01","a breath","en","translation","*flatus*: the breathing of Christ on the apostles (Jn 20:22), not a ‘wind’ (Acts 2:2 has *spiritus vehementis*).")
+
+# --- B collation (full): B68L–B68R
+n("n991","s050-01","tempore quo fuit ecclesia primo fundata","la","textual","B: *tempore quo etiam fuit primo fundata* (*tpe q̃ etiã*), without *ecclesia*, probably a misreading of *eccl'ia*.","certain")
+n("n992","s050-01","humilitatem recipientibus","la","textual","B: *humilitatem in recipientibus*.","certain")

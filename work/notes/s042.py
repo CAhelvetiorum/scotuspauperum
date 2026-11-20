@@ -1,0 +1,22 @@
+# --- s042 Book I d.12 q.1 = Ord. I d.12 q.1
+n("n704","s042-01","Circa duodecimam distinctionem","la","source","= Scotus, *Ord.* I d. 12 q. 1, *utrum Pater et Filius spirent Spiritum Sanctum inquantum sunt unum vel inquantum distincti* (Vat. V). Lombard, *Sent.* I d. 12.","to-verify")
+n("n705","s042-01","tres sunt vnum principium creature","la","source","Augustine, *De Trin.* V 14.15: *sicut Pater et Filius unus Deus… sic relative ad Spiritum Sanctum unum principium… ad creaturam Pater et Filius et Spiritus Sanctus unum principium*.","certain")
+n("n706","s042-02","Henrici in summa articulo. 54.","la","source","Henry of Ghent, *Summa* a. 54 (on the procession of the Holy Spirit; will as one or as concordant).","to-verify")
+n("n707","s042-02","quodlibeto quinto questione nona","la","source","Henry of Ghent, *Quodl.* V q. 9. Henry held that the Spirit would be distinguished from the Son even if he did not proceed from him (cf. d. 11 q. 2 above).","to-verify")
+n("n708","s042-05","fideli ac deuota professione","la","source","*Liber Sextus* VI 1.1.1 *Fideli ac devota* (Second Council of Lyon, 1274): *fideli ac devota professione fatemur quod Spiritus Sanctus aeternaliter ex Patre et Filio, non tamquam ex duobus principiis sed tamquam ex uno principio, non duabus spirationibus sed unica spiratione procedit*. Gorris abridges the text.","certain")
+n("n709","s042-06","Thome prima parte. q. 36. articulo. 4.","la","source","Thomas Aquinas, *ST* I q. 36 a. 4 ad 1: *si consideretur virtus spirativa, Spiritus Sanctus procedit a Patre et Filio inquantum sunt unum… si considerentur supposita spirationis… procedit a Patre et Filio ut sunt plures*.","certain")
+n("n710","s042-06","ly inquantum","la","translation","*ly* is the scholastic Old French article marking a word cited as a word (*ly inquantum*, ‘the [word] *inasmuch*’).","certain")
+n("n711","s042-06","Auic. 5. metha. de equinitate","la","source","Avicenna, *Liber de philosophia prima* V c. 1: *equinitas est tantum equinitas*, of itself neither one nor many, neither universal nor particular. This is the locus classicus for the common nature; Scotus uses it in *Ord.* II d. 3 p. 1 q. 1.","certain")
+n("n712","s042-08","Aristoteles dicit","la","source","Aristotle on correlatives: *Cat.* 7, 6b28–7b15, and *Metaph.* V 15, 1020b26–1021b11 (father and son as correlatives).","to-verify")
+n("n713","s042-08","relatio nec in diuinis nec in creaturis terminatur ad suum oppositum","la","source","The thesis that a relation terminates at the foundation of its correlative, not at the opposite relation: cf. Scotus, *Ord.* I d. 12 q. 1 and d. 26 (and *Quodl.* q. 3 on the terms of relations).","to-verify")
+n("n714","s042-09","secundum doctorem quodlibeto primo","la","source","Scotus, *Quodl.* q. 1 (on *dicere* as a notional act, as distinct from essential *intelligere*). The exact article is to be checked.","to-verify")
+n("n715","s042-09","repassi","la","textual","Both A and B (*re|passi*) read *repassi*, which is not a recognisable word. The sense calls for ‘mutual/requited love’; perhaps *repensi* (*amor repensus*). This is a conjecture, and the word is left as printed.","conjecture")
+n("n716","s042-09","potentia remota sed non potentia propinqua","la","source","Remote vs proximate power: the Father alone has the fruitful will, but its proximate actuation is the mutual love of Father and Son (cf. Richard of St Victor, *De Trin.* III on the *condilectus*).","to-verify")
+n("n717","s042-04","one principle which","en","translation","*principium quod*; see note at 040.")
+n("n718","s042-06","horseness","en","translation","*equinitas*, Avicenna's stock example of a nature considered in itself.")
+n("n719","s042-09","⟨requited⟩","en","translation","Translating conjecturally; see the note on *repassi* in the Latin.")
+
+# --- B collation (full): B59R–B61L
+n("n981","s042-02","In hac questione vbi mouetur dubium","la","textual","B: *In hac questione vnum mouetur dubium*, which is smoother; A's *vbi* may be a misreading of *vnū*.","certain")
+n("n982","s042-04","concurrunt vt vnum essentialiter","la","textual","B: *concurrunt vt vnum principium concurrunt* and ends there (om. *vt vnum essentialiter*).","certain")
+upd("n711", append=" B: *Auic. 2. metha. de equiuitate*; A's *5* is correct.")

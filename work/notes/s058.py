@@ -1,0 +1,20 @@
+# --- s058 Book I d.20 q.1
+n("n909","s058-01","vtrum tres persone sint equales in potentia","la","source","Corresponds to Scotus, *Ord.* I d. 20 q. un. (on the equality of the persons in power, and whether the *potentia generandi* falls under omnipotence).","to-verify")
+n("n910","s058-01","a se ipso non potest facere quicquam","la","intertext","Jn 5:19 (*non potest Filius a se facere quidquam*). The *ad oppositum* is the same verse: *quaecumque enim ille fecerit, haec et Filius similiter facit*.","certain")
+n("n911","s058-01","nullus inquit horum alium precedit eternitate aut superat potestate","la","intertext","Ps.-Augustine (Fulgentius), *De fide ad Petrum*. Compare 1.4–5 (*nullus alium aut praecedit aeternitate, aut excedit magnitudine, aut superat potestate*). The wording is quoted via Lombard, *Sent.* I d. 20.","to-verify")
+n("n912","s058-02","9. metha. quod potentia sumitur multipliciter","la","intertext","Aristotle, *Metaph.* IX 1, 1045b35–1046a11; compare V 12. The ‘mathematical’ potency (*punctus … ad lineam*) corresponds to *potentia* in geometry, mentioned in V 12, 1019b33.","verified")
+n("n913","s058-02","3°. phicorum quod ens diuiditur per actum et potentiam","la","intertext","Aristotle, *Phys.* III 1, 200b26–28.","certain")
+n("n914","s058-03","commentatorem. 8. metha.","la","source","Averroes, *In Metaph.* VIII. The comment is not identified; the attribution is Gorris's.","to-verify")
+n("n915","s058-03","Aug. li. 3°. contra Maximinum","la","intertext","Augustine, *Contra Maximinum* (in two books in modern editions; ‘book 3’ reflects the medieval division), on Jn 16:15 / 17:10 (*omnia quae habet Pater mea sunt*). This is quoted via Lombard, *Sent.* I d. 20.","to-verify")
+n("n916","s058-05","Egidius li. p°. dis. 20. q. 2.","la","source","Giles of Rome, *In I Sent.* d. 20 (q. 2 according to Gorris). Scotus does not name him. B not compared.","to-verify")
+n("n917","s058-05","potentia generandi non cadit sub omnipotentia","la","doctrinal","Scotus's thesis (*Ord.* I d. 20): omnipotence regards only what is possible *ad extra*. The notional power of generation is therefore not an object of omnipotence. This is consistent with ¶4.","to-verify")
+n("n918","s058-03","Against Maximinus","en","translation","*Contra Maximinum*.")
+n("n919","s058-05","[it is objected that]","en","translation","Supplied: the Latin states the objection without introduction.")
+
+# --- B collation (full): B76R–B78L
+n("n1013","s058-02","Secundo sumitur potentia pro principio actiuo","la","textual","B: *secundo modo sumitur potentia pro principio actiuo*.","certain")
+n("n1014","s058-03","que non dicit relationem originis","la","textual","B: *que non dicit actionem originis*, an error; the argument turns on *relationes originis* in the preceding clause.","certain")
+n("n1015","s058-03","ita communicat ei potentiam","la","textual","B: *ita communicat omnipotentiam*.","certain")
+n("n1016","s058-03","ergo communicat ei omnem potentiam","la","textual","B: *ergo communicat ei omnipotentiam*.","certain")
+upd("n916", text="Giles of Rome, *In I Sent.* d. 20 (q. 2 according to Gorris; B has the same reference, *li. j. distin. xx. q. ij.*). Scotus does not name him. The question has not been checked in Giles.")
+n("n1017","s058-05","nam secundum sanctos eadem est omnipotentia","la","textual","B om. *secundum sanctos*.","certain")

@@ -1,0 +1,20 @@
+# --- s041 Book I d.11 q.2 = Ord. I d.11 q.2
+n("n692","s041-01","Secunda questio","la","source","= Scotus, *Ord.* I d. 11 q. 2, *utrum, si Spiritus Sanctus non procederet a Filio, distingueretur ab eo* (Vat. V).","to-verify")
+n("n693","s041-01","essentia continet vnitatem relatio multiplicat trinitatem","la","source","Boethius, *De Trinitate* c. 6: *substantia continet unitatem, relatio multiplicat trinitatem*.","certain")
+n("n694","s041-01","capitulo. 17.","la","source","Augustine, *De Trin.* V 14.15 (*exiit… non quomodo natus sed quomodo datus*); cf. note at 039. In 02 the same place is cited as *capitulo 27*, apparently a numeral slip.","to-verify")
+n("n695","s041-01","quia erit","la","textual","As printed; the sense requires roughly ‘because he will go forth (*exibit*)’. B not checked here.","uncertain")
+n("n696","s041-01","Godofredus quodlibeto. 7. q. 4.","la","source","Godfrey of Fontaines, *Quodl.* VII q. 4 (whether the Holy Spirit would be distinguished from the Son if he did not proceed from him). The question number is as printed.","to-verify")
+n("n697","s041-01","q. 35. articulo. 2°.","la","source","Thomas Aquinas, *ST* I q. 36 a. 2 (*utrum Spiritus Sanctus procedat a Filio*): *si non esset ab eo, nullo modo posset ab eo personaliter distingui*. A's *q. 35* is apparently an error for *q. 36*.","to-verify")
+n("n698","s041-01","Egidius de Roma quodlibeto primo questione sexta","la","source","Giles of Rome, *Quodlibeta* I q. 6 (as printed). Giles follows Thomas on distinction by opposed relations of origin.","to-verify")
+n("n699","s041-02","de vacuo. 4° phisicorum","la","source","Aristotle, *Phys.* IV 6–9 (213a12–217b28): the inquiry into the void, which is shown to be impossible.","certain")
+n("n700","s041-02","capitulo. 27.","la","textual","Contrast *capitulo 17* in 01 for the same Augustinian passage. One of the numerals is corrupt.","certain")
+n("n701","s041-03","a parte in modo","la","source","The topical *loci a toto in modo* and *a parte in modo* (Boethius, *De topicis differentiis* II; Peter of Spain, *Tractatus* V): from a universal or unrestricted proposition to a restricted one, and conversely.","to-verify")
+n("n702","s041-03","non formaliter sed fundamentaliter","la","source","Scotus, *Ord.* I d. 11 q. 2: the Spirit would be distinguished from the Son by his own absolute or proper ground, not by an opposed relation to him.","to-verify")
+n("n703","s041-03","from the part in mode","en","translation","*a parte in modo*, a dialectical topic; rendered literally.")
+
+# --- B collation (full): B58R–B59L
+upd("n694", append=" B also *c. 17* here.")
+upd("n695", text="As printed, and B agrees (*quia erit non quomodo natus*); the sense requires roughly ‘because he will go forth (*exibit*)’, so the reading is shared, not a slip of A alone.")
+upd("n697", append=" B also *q. 35. arti. 2*.")
+upd("n700", append=" B apparently reads *c. 7* here (the numeral is blurred), against *c. 17* in 01 in both texts.")
+n("n980","s041-03","hec questio est sic intelligenda","la","textual","B: *hec questio secunda sit intelligenda*.","certain")

@@ -1,0 +1,23 @@
+# --- s056 Book I d.19 q.1
+n("n876","s056-01","vtrum persone diuine sint equales secundum magnitudinem","la","source","Corresponds to Scotus, *Ord.* I d. 19 q. 1, on the equality of the divine persons. The question wording has not been checked against the Vatican edition.","to-verify")
+n("n877","s056-01","secundum Hylarium pater est maior filio","la","intertext","Jn 14:28 (*Pater maior me est*), as expounded by Hilary, *De Trin.* IX 51–56. The precise passage has not been identified.","to-verify")
+n("n878","s056-01","in hac trinitate nihil maius aut minus","la","intertext","*Symbolum Quicumque* (Athanasian Creed), v. 24: *in hac Trinitate nihil prius aut posterius, nihil maius aut minus*. The *ecclesia* quotation that follows is the next verse of the same creed: *sed totae tres personae coaeternae sibi sunt et coaequales*.","certain")
+n("n879","s056-02","Primo quia est fundamentum","la","textual","A prints *quia*, for the *quid* (*qd*) required by the sense. The translation reads *quid*.","verified")
+n("n880","s056-03","philosophus distinguit relationem. 5. metha.","la","intertext","Aristotle, *Metaph.* V 15, 1021a10–12: *eadem quorum una substantia, similia quorum qualitas una, aequalia quorum quantitas una*.","certain")
+n("n881","s056-03","quantitas mollis et quantitas virtutis","la","textual","*Mollis* (A, twice, and *molle magna*) stands for *molis*, ‘of bulk, of mass’. The usual pair is *quantitas molis / quantitas virtutis*. The spelling is kept.","verified")
+n("n882","s056-03","2°. de generatione. c. p°.","la","source","The distinction is not plainly in *De gen. et corr.* II 1; the reference may be inexact.","to-verify")
+n("n883","s056-03","Aug. 5. de trini.","la","intertext","Augustine, *De Trin.* VI 8.9 (*in iis quae non mole magna sunt, hoc est maius esse quod est melius esse*). Gorris's ‘5’ is inexact.","verified")
+n("n884","s056-03","circa finem octaui phisicorum","la","intertext","Aristotle, *Phys.* VIII 10 (266a10–b6): the first mover has infinite power and no magnitude.","certain")
+n("n885","s056-05","4. metha. Equale opponitur priuatiue magno et paruo","la","intertext","Aristotle, *Metaph.* X 5, 1056a10–24 (the equal as the privative negation of great and small). Gorris's ‘4’ does not match. The source of the error is not identified.","to-verify")
+n("n886","s056-06","intentio Ricardi","la","source","Probably Richard of Middleton, *In I Sent.* d. 19 (or Richard of St Victor?). Not identified.","to-verify")
+n("n887","s056-06","distinguntur aliquo modo ex natura rei vt habetur di. 12.","la","doctrinal","The formal distinction *ex natura rei* among the divine attributes is treated by Scotus chiefly in *Ord.* I d. 8 p. 1 q. 4. The cross-reference ‘d. 12’ is either to a passage of the *Scotus pauperum* or inexact.","uncertain")
+n("n888","s056-02","what is the foundation","en","translation","Reading *quid* for A's *quia*.")
+n("n889","s056-03","quantity of mass","en","translation","*quantitas mollis* (= *molis*).")
+
+# --- B collation (full): B74R–B75R
+n("n1008","s056-01","nam ecclesia illud confitetur","la","textual","B: *nam etiam illud confitetur* (*etiã*), as at §s050-01 (n991), evidently a misreading of *eccl'ia*.","certain")
+upd("n879", append="B reads *Primo quid est fundamentum* (*qd*), confirming the correction.")
+n("n1009","s056-02","tam proximum quam remotum","la","textual","B: *tam primum quam remotum*.","certain")
+upd("n883", append="B adds a chapter: *Aug. v. de trini. c. viij.*")
+n("n1010","s056-05","infinitas per que est positiua","la","textual","B: *infinitas que est positiua* (om. *per*). A is construable (‘through which it is positive’) and is translated.","certain")
+upd("n887", append="B reads *immo dicuntur aliquo modo ex natura rei vt habetur di. xij*, an error for *distinguntur*.")

@@ -1,0 +1,8 @@
+# --- s066 Book I d.27 q.1 (p. 104– )
+n("n1188","s066-01","vtrum verbum mentis create sit intellectio actualis","la","source","Scotus, *Ord.* I d. 27 qq. 1–3 (Wadding text checked locally), where Henry’s view of the *verbum* as *intellectio declarativa* is reported.","verified")
+n("n1189","s066-01","vox vehiculum est verbi mentalis","la","intertext","Probably a paraphrase of Augustine, *De Trin.* XV 11.20: *verbum quod foris sonat signum est verbi quod intus lucet*.","probable")
+n("n1190","s066-01","verbum est cognitio ipsa","la","source","Cf. Augustine, *De Trin.* IX 10.15 (*verbum … est … cum amore notitia*). Not checked.","to-verify")
+n("n1191","s066-02","Henricus quodlibeto. 6. q. 1. in summa","la","source","Henry of Ghent. His doctrine of the *verbum* is in *Summa* aa. 58–59 and *Quodl.* V q. 25; *Quodl.* VI q. 1 has not been checked.","to-verify")
+n("n1192","s066-04","voces sunt signa earum que sunt in anima passionum","la","source","Aristotle, *De int.* 1, 16a3–4 (Boethius’ translation: *sunt ergo ea quae sunt in voce earum quae sunt in anima passionum notae*).","certain")
+n("n1193","s066-04","compositiones animorum","la","source","Augustine, *Enchiridion* 7.22: words were instituted *ut eis … cogitationes suas perferat* (quoted from memory, not checked against the text). B also reads *compositiones animorum*. B checked.","probable")
+n("n1194","s066-04","significat rem","la","textual","Section continues on p. 105 (*extra.*), in the next batch.","certain")

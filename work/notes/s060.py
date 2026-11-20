@@ -1,0 +1,20 @@
+# --- s060 Book I d.22
+n("n930","s060-01","vtrum deus sit nominabilis ab homine viatore aliquo nomine proprio","la","source","Corresponds to Scotus, *Ord.* I d. 22 q. un. (on whether God is nameable by a wayfarer with a proper name).","to-verify")
+n("n931","s060-02","doctoris solennis in summa","la","source","*Doctor solemnis* is Henry of Ghent; the work is his *Summa quaestionum ordinariarum*.","certain")
+n("n932","s060-02","articulo. 22. q. 12. et. 3.","la","textual","The figures are read from A (*articulo. zz. q. 1z. z. 3*, where *z* = 2 and the third *z* is probably the *et* sign). ‘q. 12’ may be an error for ‘q. 1, 2’. Henry, *Summa* a. 22 (on the knowledge of God), and also a. 24, should be checked.","uncertain")
+n("n933","s060-02","quodlibeto. 5. q. 1. et quodlibeto. 13. q. 1.","la","source","Henry of Ghent, *Quodl.* V q. 1 and XIII q. 1 (on the single real concept caused by the divine essence).","to-verify")
+n("n934","s060-02","vix potest reperiri ista questio completa nisi compleatur aut ex reportatoriis parisiensibus aut aliunde","la","intertext","This is an important philological remark. Gorris knows that the *Ordinatio* text of d. 22 is incomplete and must be supplemented from the *Reportata Parisiensia*, Scotus's Paris lectures, or other sources. This fits the state of *Ord.* I d. 22 in the manuscripts as described by the Vatican editors, although the precise relation to their apparatus is not checked here. It is evidence that Gorris worked with awareness of the *Reportatio* tradition. Compare the remark on corrupt books in s053.","to-verify")
+n("n935","s060-03","aliqua nomina essentialia. et aliqua personalia aliqua notionalia","la","doctrinal","This is the standard threefold division of divine names (essential / personal / notional) in the *Sentences* commentaries.","certain")
+n("n936","s060-04","dominus vir pugnator omnipotens nomen eius","la","intertext","Ex 15:3 (Vulgate: *Dominus quasi vir pugnator, Omnipotens nomen eius*). Gorris omits *quasi*.","certain")
+n("n937","s060-04","pratum ridet","la","intertext","‘The meadow laughs’ is the stock scholastic example of metaphorical (improper) predication, going back to Boethius's and the grammarians' discussions of *translatio*.","verified")
+n("n938","s060-05","nominaret greco homo","la","textual","Thus A; *greco* is perhaps for *grece* (‘in Greek’), i.e. used the Greek word for ‘man’ without knowing its meaning. The sense is clear; the syntax is loose.","uncertain")
+n("n939","s060-06","tres conceptus quidditatiuos","la","doctrinal","*Ens, substantia, spiritus*: quidditative but common concepts of God available to the wayfarer, short of a proper, specific concept. This is Scotus's doctrine, compare *Ord.* I d. 3 p. 1 qq. 1–2.","to-verify")
+n("n940","s060-02","at the foot of the question","en","translation","*pedis questionis*: literally ‘of the foot of the question’, presumably the initial arguments; the phrase is odd.")
+n("n941","s060-05","the Greek [word for] ‘man’","en","translation","Latin *greco homo*; see note.")
+
+# --- B collation (full): B79L–B80L
+upd("n932", text="The figures are read from A (*articulo. zz. q. 1z. z. 3*, where *z* = 2). B has *ar. 22. q. 12. et. 3.*, with the *et* written out, which confirms the reading of A's third *z* as the *et* sign. ‘q. 12’ may still be an error for ‘q. 1, 2’ in the common source; Henry, *Summa* a. 22 (on the knowledge of God), and also a. 24, have not been checked.", status="verified")
+n("n1019","s060-02","2°. arguo sic","la","textual","B: *Secundo arguit sic*. A quotes Scotus's own first person; the English follows A.","certain")
+upd("n936", append="B reads *omnipotens nomen illi*, against both A and the Vulgate.")
+upd("n938", append="B has the same *greco hõ*.")
+n("n1021","s060-06","ratio istorum sic potest haberi","la","textual","B: *ratio istorum sic potest probari*.","certain")

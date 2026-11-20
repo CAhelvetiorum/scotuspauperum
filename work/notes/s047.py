@@ -1,0 +1,16 @@
+# --- s047 Book I dd.14-15 q.1 (Lombard I dd.14-15; Scotus Ord. I dd.14-16)
+n("n764","s047-01","Circa decimamquartam et decimamquintam distinctiones","la","source","Lombard, *Sent.* I dd. 14–15 (on the temporal procession, mission and giving of the Son and the Holy Spirit). Scotus treats these distinctions together with d. 16 (*Ord.* I dd. 14–16); the exact correspondence of Gorris's three questions to Scotus's text has not been checked.","to-verify")
+n("n765","s047-01","secundum Augustinum ad Dardanum","la","source","Augustine, *Ep.* 187 (*ad Dardanum*). The formula *quelibet persona dat et datur* has not been found there verbatim. Compare Lombard, *Sent.* I d. 15 c. 1, where the Holy Spirit *et dat et datur*, citing *De Trin.* XV.","to-verify")
+n("n766","s047-01","Aug. 4. de trini. c. 17.","la","source","Augustine, *De Trin.* IV 20.28: *Sed pater cum ex tempore a quoquam cognoscitur, non dicitur missus; non enim habet de quo sit aut ex quo procedat*. The chapter is cited as ‘c. 17’ here and as ‘c. 7’ in 047-02. Neither matches the modern division (c. 20).","verified")
+n("n767","s047-02","In his distinctionibus non sunt opiniones","la","textual","An unusual statement in this work: Gorris finds no rival opinions to report and goes straight to the solution.","certain")
+n("n768","s047-02","non enim habet a quo sit aut a quo procedit","la","source","Augustine reads *de quo sit aut ex quo procedat* (*De Trin.* IV 20.28); Gorris quotes freely.","verified")
+n("n769","s047-03","quasi sub auctoritatiue","la","textual","Thus A, in two words both times (047-03). The sense is ‘sub-authoritatively’, i.e. as working under the authority of the person from whom the power to act is received.","certain")
+n("n770","s047-04","Isaie. 6.","la","source","Isa 61:1 (*Spiritus Domini super me*, cf. Luke 4:18), not Isa 6; a numeral has probably dropped out. Lombard, *Sent.* I d. 15 c. 3, also cites Isa 48:16, *Nunc misit me Dominus et Spiritus eius*.","to-verify")
+n("n771","s047-04","Spiritus domini misit me ad predicandum","la","source","Ambrose, *De Spiritu Sancto* (book II according to Lombard), as quoted by Lombard, *Sent.* I d. 15 c. 3: *Bene autem dixit super me, quia quasi filius hominis et unctus est et missus ad praedicandum*. Lombard's own conclusion is that the Son is sent by the Spirit. Gorris's reply (*de christo homine*) takes up Ambrose's own qualification.","verified")
+n("n772","s047-04","vt non videamur","la","textual","*vt non videamur habere penuriam nominum*: the appeal to ‘poverty of names’ is a commonplace of Trinitarian terminology (compare Augustine, *De Trin.* V 9.10 on *tres personae*). The precise source here is not identified.","uncertain")
+n("n773","s047-03","sub-authoritatively","en","translation","*sub auctoritatiue*: see the Latin note.")
+
+# --- B collation (full): B65R–B66R
+upd("n769", append=" B has *quasi sub|auctoritatiue* (hyphenated at line end) and then *quasi subauctoritatiue* as one word, which supports the reading ‘sub-authoritatively’.")
+upd("n770", append=" B also *esa. vi.*")
+upd("n766", append=" B: *augu. [?] de trini. capitulo xvij.* (the book numeral is lost at the cropped line start); in 02 B has *iiij. de trini. c. vij.*, as A.")

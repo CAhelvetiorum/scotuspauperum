@@ -1,0 +1,13 @@
+# --- s014 Book I d.2 q.2 (= Ord. I d.2 p.1 q.3, nn. 157–190)
+n("n303","s014-01","vtrum tantum sit vnus deus","la","source","= *Ord.* I d. 2 p. 1 q. 3, n. 157 (*Quaero utrum sit tantum unus Deus*), with the same *contra* (1 Cor 8:5).","verified")
+n("n304","s014-02","Conclusio est certa","la","source","*Ord.* I d. 2 n. 163: *In ista quaestione conclusio est certa. Sed dicunt aliqui quod haec conclusio non est demonstrabilis, sed tantum accepta per fidem; et ad hoc sequitur auctoritas Rabbi Moysis*. Gorris names the *aliqui*: William of Ware.","verified")
+n("n305","s014-02","Rabi moyses","la","source","Maimonides, *Dux neutrorum* I c. 74 (73 in the Latin), cited by Scotus *ibid.* and answered in n. 182.","verified")
+n("n306","s014-03","septem viis","la","source","The seven ways of *Ord.* I d. 2 nn. 165–181: from infinite intellect, infinite will, infinite goodness, infinite power, infinity as such, necessary being, omnipotence.","verified")
+n("n307","s014-04","nobis autem vnus est deus","la","source","1 Cor 8:6.","verified")
+n("n308","s014-02","Rabbi Moses","en","translation","Moses Maimonides, known to the Latins as *Rabbi Moyses*.")
+# --- B collation (full): B26L–B27L
+n("n1066","s014-01","Audi israel dominus deus","la","textual","B: *Audi israel deus tuus vnus est* (without *dominus*).","certain")
+n("n1067","s014-01","Isaie. 45.","la","textual","B: *Esa. xliiij.* The words *Extra me non est deus* (*absque me non est Deus*) occur at both Is 44:6 and Is 45:5 (cf. 45:21), so either reference will do.","certain")
+n("n1068","s014-02","etiam ducit hanc distinctionem. q. 2. sequendo tertium argumentum","la","textual","B omits these words and reads only *Similiter soluendo vltimum argumentum de pluribus bonis.*","certain")
+n("n1069","s014-03","Prima ex parte infinitatis","la","textual","B: *Prima ex parte infinitatis intellectus*, which matches Scotus's first way (from the infinite intellect, *Ord.* I d. 2 n. 165) and the argument that follows.","certain")
+n("n1070","s014-03","habent duas rationes necessarii esse","la","textual","B: *habent duas necessarias rationes necesse esse*.","certain")

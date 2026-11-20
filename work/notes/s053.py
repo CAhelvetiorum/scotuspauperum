@@ -1,0 +1,21 @@
+# --- s053 Book I d.18 q.1
+n("n842","s053-01","vtrum tota caritas preexistens corrumpatur","la","source","Gorris's ‘d. 18’ corresponds in substance to Scotus, *Ord.* I d. 17 p. 2 (on the augmentation of charity), q. 1: ‘Utrum… tota caritas praeexistens corrumpatur…’. The distinction numbering in Gorris therefore diverges from the critical Scotus here.","to-verify")
+n("n843","s053-01","auctum oportet manere","la","intertext","Aristotle, *De gen. et corr.* I 5 (321a–b): in growth what grows must persist. B appears to read *Actum* (an evident error).","verified")
+n("n844","s053-02","Ponit opinionem Godofredi quodlibeto. xi. q. 3.","la","source","Godfrey of Fontaines, *Quodl.* XI q. 3 (B: *xi. q. iii*). Here, and in the further references to *Quodl.* VII q. 7 and IX q. 4 (B *vii. q. vii*, *ix. q. iiii*), Gorris does the work of a modern apparatus: he keys each *et post dum dicit* (a lemma of Scotus's text) to its source in Godfrey. None of the references has been checked against the *Philosophes Belges* edition.","to-verify")
+n("n845","s053-02","Post arguit doctor contra eum sex viis","la","source","Scotus's six arguments against Godfrey's corruption theory are in *Ord.* I d. 17 p. 2 q. 1.","to-verify")
+n("n846","s053-03","contra Aristotelem primo de generatione","la","intertext","Aristotle, *De gen. et corr.* I 5, on the difference between generation and growth.","to-verify")
+n("n847","s053-04","dicit sanctus doctor quod augmentum non fit per gradus","la","source","Thomas Aquinas, *ST* II-II q. 24 aa. 4–6, where charity increases by greater rooting in the subject (*secundum maiorem radicationem in subiecto*), not by the addition of degree to degree. The following question (s054) cites the parallel *ST* I-II q. 52 aa. 1–2.","to-verify")
+n("n848","s053-04","oppositum in abiecto","la","textual","Thus A. B has *in adiecto*, the usual form (*contradictio in adiecto*). Kept as printed.","verified")
+n("n849","s053-05","est opinio Thome et Godofredi","la","doctrinal","The view attributed to Thomas, that the first degree is corrupted, is not Thomas's: he holds increase by rooting, without corruption. The pairing comes from Scotus's text. Gorris reports it without comment.","to-verify")
+n("n850","s053-05","in rarefactione forme specierum in eucaristia","la","doctrinal","The Eucharistic argument: the dimensive quantity of the species remains numerically the same after the consecration, so a theory on which an increase corrupts the preceding form would contradict the faith. Compare Scotus, *Ord.* IV d. 12.","to-verify")
+n("n851","s053-06","distingantur","la","textual","As printed in A (B *distinguantur*).","verified")
+n("n852","s053-06","vnitate homogeneitatis","la","doctrinal","Degrees of the same form make one by a unity of homogeneity, like portions of water; it is not the unity of act and potency. A Scotist commonplace.","certain")
+n("n853","s053-06","[it is objected]","en","translation","Supplied: the clause *sed si albedini … ille est accidens* is an objection, answered by *dico quod non*.")
+n("n854","s053-04","a contradiction in terms","en","translation","*oppositum in adiecto* (A *abiecto*).")
+
+# --- B collation (full): B71L–B72L
+n("n999","s053-01","in caritate maiore et minore","la","textual","B: *in caritate maiore vel minore*.","certain")
+n("n1000","s053-02","videtur ponendum magis et minus","la","textual","B: *videtur ponendum maius et minus*.","certain")
+n("n1001","s053-03","Tertio posito quod illi gradus non corrumpantur","la","textual","B: *Tercio posito quod illi gradus corrumpantur* (om. *non*), against the sense (the third article presupposes the answer to the second, that the degrees are not corrupted). A is right.","certain")
+n("n1002","s053-04","fiat magis perfectum","la","textual","B: *fiat maius perfectum*, and below *quod sit maius et minus* for A's *magis et minus*.","certain")
+n("n1003","s053-04","Non intelligo quod fiat augmentum","la","textual","B: *non intelligo quod fiat augmentatio*.","certain")
