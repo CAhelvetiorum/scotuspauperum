@@ -1,0 +1,89 @@
+:root{
+  --ink:#2b2622; --muted:#7a6f63; --rule:#d9cfc2; --paper:#fbf8f2; --rubric:#9b2d20;
+  --c-textual:#9b2d20; --c-source:#2e5a7a; --c-historical:#5b6b2e; --c-translation:#7a4d8a;
+  --margin:16rem; --gap:2.2rem; --text:34rem;
+}
+*{box-sizing:border-box}
+html{font-size:18px}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font-family:"EB Garamond",Garamond,"Times New Roman",serif;line-height:1.55;
+  font-variant-ligatures:common-ligatures;font-feature-settings:"liga","onum"}
+a{color:var(--rubric)}
+.masthead{text-align:center;padding:3rem 1rem 1.5rem;border-bottom:1px solid var(--rule);max-width:70rem;margin:0 auto}
+.kicker{font-variant:small-caps;letter-spacing:.08em;color:var(--muted);margin:0 0 .6rem}
+h1{font-weight:400;font-size:1.6rem;margin:0;line-height:1.2;letter-spacing:.04em}
+h1 .title{font-style:italic;font-size:2.6rem;color:var(--rubric);letter-spacing:0}
+.imprint{color:var(--muted);font-size:.9rem;margin:.7rem 0 1rem}
+#toc{display:flex;flex-wrap:wrap;justify-content:center;gap:.3rem 1.4rem;font-size:.95rem}
+#toc a{text-decoration:none;font-variant:small-caps;letter-spacing:.04em}
+.legend{display:flex;flex-wrap:wrap;justify-content:center;gap:.25rem .9rem;margin-top:1rem;font-size:.8rem;color:var(--muted)}
+.lg::before{content:"";display:inline-block;width:.6em;height:.6em;border-radius:50%;margin-right:.3em;background:currentColor;vertical-align:.05em}
+.lg.textual{color:var(--c-textual)}.lg.source{color:var(--c-source)}.lg.historical{color:var(--c-historical)}.lg.translation{color:var(--c-translation)}
+.pb-sample{color:var(--rubric)}
+
+main{max-width:calc(var(--text)*2 + var(--margin)*2 + var(--gap)*3);margin:0 auto;padding:1rem 1.2rem 4rem}
+.loading{text-align:center;color:var(--muted)}
+.section-head{display:grid;grid-template-columns:var(--margin) 1fr 1fr var(--margin);gap:var(--gap);margin:3rem 0 1rem;align-items:end}
+.section-head h2{margin:0;font-weight:400;font-variant:small-caps;letter-spacing:.06em;font-size:1.15rem;color:var(--rubric);
+  border-bottom:1px solid var(--rule);padding-bottom:.3rem}
+.section-head h2 .pp{float:right;font-variant:normal;letter-spacing:0;color:var(--muted);font-size:.85rem}
+.colhead{font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+
+.row{display:grid;grid-template-columns:var(--margin) 1fr 1fr var(--margin);gap:var(--gap);position:relative;margin-bottom:1.1rem}
+.margin{position:relative;font-size:.78rem;line-height:1.38}
+.margin.left .note{text-align:right}
+.p{margin:0;text-align:justify;hyphens:auto;position:relative}
+.p.la{font-size:1rem}
+.p.en{font-size:1rem}
+.p .pid{position:absolute;top:.2rem;font-size:.62rem;color:#b8ab9b;letter-spacing:.04em;font-family:inherit}
+.p.la .pid{left:-2.1rem}
+.p.en .pid{right:-2.1rem}
+.row.heading .p{text-align:center;font-style:italic;font-size:1.06rem;line-height:1.45;padding:0 1rem}
+.row.heading .p:lang(la){font-style:normal;font-variant:small-caps;letter-spacing:.02em}
+
+.pb{color:var(--rubric);font-size:.72rem;font-style:normal;font-variant:normal;white-space:nowrap;
+  letter-spacing:.02em;padding:0 .15em;vertical-align:.12em}
+.pb b{font-weight:500}
+.unc{color:#6b4f2a}
+
+.anchor{background:linear-gradient(transparent 62%,rgba(155,45,32,.13) 62%);cursor:pointer;transition:background .15s}
+.anchor sup{font-size:.62em;color:var(--rubric);margin-left:.05em;font-weight:500}
+.anchor.hl{background:rgba(155,45,32,.22)}
+.note{position:absolute;left:0;right:0;transition:background .15s;padding:.1rem .25rem;border-radius:2px}
+.note .num{font-weight:600;color:var(--rubric);margin-right:.25em}
+.note .lemma{font-style:italic}
+.note .lemma::after{content:" ]";font-style:normal;color:var(--muted)}
+.note .tag{font-size:.66rem;font-variant:small-caps;letter-spacing:.05em;margin-left:.3em}
+.note.textual .tag{color:var(--c-textual)}.note.source .tag{color:var(--c-source)}
+.note.historical .tag{color:var(--c-historical)}.note.translation .tag{color:var(--c-translation)}
+.note .status{font-size:.62rem;color:var(--muted);border:1px solid var(--rule);border-radius:3px;padding:0 .25em;margin-left:.3em}
+.note.hl{background:rgba(155,45,32,.08)}
+.margin.left .note{border-right:2px solid transparent}.margin.right .note{border-left:2px solid transparent}
+.note.textual{border-color:var(--c-textual)!important}.note.source{border-color:var(--c-source)!important}
+.note.historical{border-color:var(--c-historical)!important}.note.translation{border-color:var(--c-translation)!important}
+.margin.left .note{padding-right:.5rem}.margin.right .note{padding-left:.5rem}
+
+.foot{display:none}
+
+@media (max-width:1100px){
+  :root{--margin:0}
+  .row,.section-head{grid-template-columns:1fr 1fr;gap:1.6rem}
+  .margin{display:none}
+  .section-head .spacer{display:none}
+  .foot{display:block;grid-column:1 / -1;font-size:.8rem;line-height:1.4;border-top:1px solid var(--rule);padding-top:.4rem;margin-top:-.3rem}
+  .foot .note{position:static;margin:.15rem 0}
+  .p .pid{display:none}
+}
+@media (max-width:700px){
+  html{font-size:17px}
+  .row,.section-head{grid-template-columns:1fr}
+  .p.en{border-left:2px solid var(--rule);padding-left:.7rem;color:#3d3630}
+  .colhead.en{display:none}
+}
+
+/* EB Garamond's Latin 'locl' feature substitutes u→v; the edition keeps u/v exactly as printed. */
+:lang(la){font-feature-settings:"liga","onum","locl" 0}
+
+/* Two series of note labels: Latin apparatus numbered (1, 2, 3), English apparatus lettered in italic (a, b, c). */
+.note.en .num, sup.en { font-style: italic; }
+.lg-num{color:var(--rubric);font-weight:600}
