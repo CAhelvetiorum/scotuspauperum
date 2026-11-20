@@ -1,0 +1,403 @@
+{
+  "work": "Guillermus Gorris, Scotus pauperum",
+  "witness": "A = Toulouse: Henricus Mayer, [after 10 May 1486]. Lisbon, Biblioteca Nacional de Portugal, INC. 535 (copy-text)",
+  "collated": "B = [Speyer: Peter Drach, c. 1492]. Munich, Bayerische Staatsbibliothek, 4 Inc.s.a. 910 a (digitale-sammlungen.de, bsb00042670)",
+  "sections": [
+    {
+      "id": "001",
+      "la": "Epistola dedicatoria",
+      "en": "Dedicatory Letter",
+      "pages": "1–2"
+    },
+    {
+      "id": "002",
+      "la": "Titulus et praefatio auctoris",
+      "en": "Title and Author's Preface",
+      "pages": "3–5"
+    },
+    {
+      "id": "003",
+      "la": "Prologus, q. 1",
+      "en": "Prologue, q. 1: the need for supernatural doctrine",
+      "pages": "6–7"
+    },
+    {
+      "id": "004",
+      "la": "Prologus, q. 2",
+      "en": "Prologue, q. 2: the sufficiency of Scripture",
+      "pages": "7–9"
+    },
+    {
+      "id": "005",
+      "la": "Prologus, q. 3",
+      "en": "Prologue, q. 3: the subject of theology",
+      "pages": "9–11"
+    },
+    {
+      "id": "006",
+      "la": "Prologus, q. 4",
+      "en": "Prologue, q. 4: theology as science",
+      "pages": "11–13"
+    },
+    {
+      "id": "007",
+      "la": "Prologus, q. 5",
+      "en": "Prologue, q. 5: whether theology is practical",
+      "pages": "13–17"
+    },
+    {
+      "id": "008",
+      "la": "Liber I, dist. 1, q. 1",
+      "en": "Book I, d. 1, q. 1: the object of enjoyment",
+      "pages": "17–18"
+    },
+    {
+      "id": "009",
+      "la": "Liber I, dist. 1, q. 2",
+      "en": "Book I, d. 1, q. 2: one aspect of enjoyability?",
+      "pages": "18–20"
+    },
+    {
+      "id": "010",
+      "la": "Liber I, dist. 1, q. 3",
+      "en": "Book I, d. 1, q. 3: is enjoyment an act of the will?",
+      "pages": "20–21"
+    },
+    {
+      "id": "011",
+      "la": "Liber I, dist. 1, q. 4",
+      "en": "Book I, d. 1, q. 4: is the will necessitated by the end?",
+      "pages": "21–22"
+    },
+    {
+      "id": "012",
+      "la": "Liber I, dist. 1, q. 5",
+      "en": "Book I, d. 1, q. 5: who enjoys?",
+      "pages": "23"
+    },
+    {
+      "id": "013",
+      "la": "Liber I, dist. 2, q. 1",
+      "en": "Book I, d. 2, q. 1: the infinite; is God's existence self-evident?",
+      "pages": "23–26"
+    },
+    {
+      "id": "014",
+      "la": "Liber I, dist. 2, q. 2",
+      "en": "Book I, d. 2, q. 2: is there only one God?",
+      "pages": "26–27"
+    },
+    {
+      "id": "015",
+      "la": "Liber I, dist. 2, q. 3",
+      "en": "Book I, d. 2, q. 3: plurality of persons and of productions",
+      "pages": "27–29"
+    },
+    {
+      "id": "016",
+      "la": "Liber I, dist. 3, q. 1",
+      "en": "Book I, d. 3, q. 1: natural knowledge of God; what is first known",
+      "pages": "29–31"
+    },
+    {
+      "id": "017",
+      "la": "Liber I, dist. 3, q. 2",
+      "en": "Book I, d. 3, q. 2: is God the adequate object of the intellect?",
+      "pages": "31–32"
+    },
+    {
+      "id": "018",
+      "la": "Liber I, dist. 3, q. 3",
+      "en": "Book I, d. 3, q. 3: is the true the object of the intellect?",
+      "pages": "32–33"
+    },
+    {
+      "id": "019",
+      "la": "Liber I, dist. 3, q. 4",
+      "en": "Book I, d. 3, q. 4",
+      "pages": "33–35"
+    },
+    {
+      "id": "020",
+      "la": "Liber I, dist. 3, q. 5",
+      "en": "Book I, d. 3, q. 5",
+      "pages": "35–36"
+    },
+    {
+      "id": "021",
+      "la": "Liber I, dist. 3, q. 6",
+      "en": "Book I, d. 3, q. 6",
+      "pages": "36–37"
+    },
+    {
+      "id": "022",
+      "la": "Liber I, dist. 3, q. 7",
+      "en": "Book I, d. 3, q. 7",
+      "pages": "37–38"
+    },
+    {
+      "id": "023",
+      "la": "Liber I, dist. 3, q. 8",
+      "en": "Book I, d. 3, q. 8",
+      "pages": "38–39"
+    },
+    {
+      "id": "024",
+      "la": "Liber I, dist. 3, q. 9",
+      "en": "Book I, d. 3, q. 9",
+      "pages": "39–41"
+    },
+    {
+      "id": "025",
+      "la": "Liber I, dist. 3, q. 10",
+      "en": "Book I, d. 3, q. 10",
+      "pages": "41–42"
+    },
+    {
+      "id": "026",
+      "la": "Liber I, dist. 3, q. 11",
+      "en": "Book I, d. 3, q. 11",
+      "pages": "42–44"
+    },
+    {
+      "id": "027",
+      "la": "Liber I, dist. 4, q. 1",
+      "en": "Book I, d. 4, q. 1",
+      "pages": "44–45"
+    },
+    {
+      "id": "028",
+      "la": "Liber I, dist. 4, q. 2",
+      "en": "Book I, d. 4, q. 2",
+      "pages": "45–46"
+    },
+    {
+      "id": "029",
+      "la": "Liber I, dist. 5, q. 1",
+      "en": "Book I, d. 5, q. 1",
+      "pages": "46–48"
+    },
+    {
+      "id": "030",
+      "la": "Liber I, dist. 5, q. 2",
+      "en": "Book I, d. 5, q. 2",
+      "pages": "48–49"
+    },
+    {
+      "id": "031",
+      "la": "Liber I, dist. 6, q. vnica",
+      "en": "Book I, d. 6, single q.",
+      "pages": "50–52"
+    },
+    {
+      "id": "032",
+      "la": "Liber I, dist. 7, q. 1",
+      "en": "Book I, d. 7, q. 1",
+      "pages": "52–54"
+    },
+    {
+      "id": "033",
+      "la": "Liber I, dist. 8, q. 1",
+      "en": "Book I, d. 8, q. 1",
+      "pages": "54–56"
+    },
+    {
+      "id": "034",
+      "la": "Liber I, dist. 8, q. 2",
+      "en": "Book I, d. 8, q. 2",
+      "pages": "56"
+    },
+    {
+      "id": "035",
+      "la": "Liber I, dist. 8, q. 3",
+      "en": "Book I, d. 8, q. 3",
+      "pages": "57–58"
+    },
+    {
+      "id": "036",
+      "la": "Liber I, dist. 8, q. 4",
+      "en": "Book I, d. 8, q. 4",
+      "pages": "58–60"
+    },
+    {
+      "id": "037",
+      "la": "Liber I, dist. 8, q. 5",
+      "en": "Book I, d. 8, q. 5",
+      "pages": "60–62"
+    },
+    {
+      "id": "038",
+      "la": "Liber I, dist. 9, q. un.",
+      "en": "Book I, d. 9, q. un.",
+      "pages": "62–64"
+    },
+    {
+      "id": "039",
+      "la": "Liber I, dist. 10, q. un.",
+      "en": "Book I, d. 10, q. un.",
+      "pages": "64–67"
+    },
+    {
+      "id": "040",
+      "la": "Liber I, dist. 11, q. 1",
+      "en": "Book I, d. 11, q. 1",
+      "pages": "67–68"
+    },
+    {
+      "id": "041",
+      "la": "Liber I, dist. 11, q. 2",
+      "en": "Book I, d. 11, q. 2",
+      "pages": "68–69"
+    },
+    {
+      "id": "042",
+      "la": "Liber I, dist. 12, q. 1",
+      "en": "Book I, d. 12, q. 1",
+      "pages": "69–71"
+    },
+    {
+      "id": "043",
+      "la": "Liber I, dist. 12, q. 2",
+      "en": "Book I, d. 12, q. 2",
+      "pages": "72"
+    },
+    {
+      "id": "044",
+      "la": "Liber I, dist. 12, q. 3",
+      "en": "Book I, d. 12, q. 3",
+      "pages": "72–73"
+    },
+    {
+      "id": "045",
+      "la": "Liber I, dist. 12, q. 4",
+      "en": "Book I, d. 12, q. 4",
+      "pages": "73–75"
+    },
+    {
+      "id": "046",
+      "la": "Liber I, dist. 13, q. vnica",
+      "en": "Book I, d. 13, single q.",
+      "pages": "76–77"
+    },
+    {
+      "id": "047",
+      "la": "Liber I, dist. 14–15, q. 1",
+      "en": "Book I, d. 14–15, q. 1",
+      "pages": "77–78"
+    },
+    {
+      "id": "048",
+      "la": "Liber I, dist. 14–15, q. 2",
+      "en": "Book I, d. 14–15, q. 2",
+      "pages": "78–79"
+    },
+    {
+      "id": "049",
+      "la": "Liber I, dist. 15, q. 3",
+      "en": "Book I, d. 15, q. 3",
+      "pages": "79–80"
+    },
+    {
+      "id": "050",
+      "la": "Liber I, dist. 16, q. unica",
+      "en": "Book I, d. 16, single question",
+      "pages": "81–82"
+    },
+    {
+      "id": "051",
+      "la": "Liber I, dist. 17, q. 1",
+      "en": "Book I, d. 17, q. 1",
+      "pages": "82–83"
+    },
+    {
+      "id": "052",
+      "la": "Liber I, dist. 17, q. 2",
+      "en": "Book I, d. 17, q. 2",
+      "pages": "83–85"
+    },
+    {
+      "id": "053",
+      "la": "Liber I, dist. 18, q. 1",
+      "en": "Book I, d. 18, q. 1",
+      "pages": "85–86"
+    },
+    {
+      "id": "054",
+      "la": "Liber I, dist. 18, q. 2",
+      "en": "Book I, d. 18, q. 2",
+      "pages": "86–88"
+    },
+    {
+      "id": "055",
+      "la": "Liber I, dist. 18, q. 3",
+      "en": "Book I, d. 18, q. 3",
+      "pages": "88–89"
+    },
+    {
+      "id": "056",
+      "la": "Liber I, dist. 19, q. 1",
+      "en": "Book I, d. 19, q. 1",
+      "pages": "89–91"
+    },
+    {
+      "id": "057",
+      "la": "Liber I, dist. 19, q. 2",
+      "en": "Book I, d. 19, q. 2",
+      "pages": "91–93"
+    },
+    {
+      "id": "058",
+      "la": "Liber I, dist. 20, q. un.",
+      "en": "Book I, d. 20, q. un.",
+      "pages": "93–94"
+    },
+    {
+      "id": "059",
+      "la": "Liber I, dist. 21, q. un.",
+      "en": "Book I, d. 21, q. un.",
+      "pages": "94–95"
+    },
+    {
+      "id": "060",
+      "la": "Liber I, dist. 22, q. un.",
+      "en": "Book I, d. 22, q. un.",
+      "pages": "95–97"
+    },
+    {
+      "id": "061",
+      "la": "Liber I, dist. 23, q. un.",
+      "en": "Book I, d. 23, q. un.",
+      "pages": "97–98"
+    },
+    {
+      "id": "062",
+      "la": "Liber I, dist. 24, q. un.",
+      "en": "Book I, d. 24, q. un.",
+      "pages": "98–99"
+    },
+    {
+      "id": "063",
+      "la": "Liber I, dist. 25, q. un.",
+      "en": "Book I, d. 25, q. un.",
+      "pages": "99–101"
+    },
+    {
+      "id": "064",
+      "la": "Liber I, dist. 26, q. 1",
+      "en": "Book I, d. 26, q. 1",
+      "pages": "101–102"
+    },
+    {
+      "id": "065",
+      "la": "Liber I, dist. 26, q. 2",
+      "en": "Book I, d. 26, q. 2",
+      "pages": "102–104"
+    },
+    {
+      "id": "066",
+      "la": "Liber I, dist. 27, q. 1 (initium)",
+      "en": "Book I, d. 27, q. 1 (beginning)",
+      "pages": "104"
+    }
+  ]
+}
