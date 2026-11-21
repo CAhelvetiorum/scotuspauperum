@@ -34,17 +34,6 @@
    "text": "The vicar general of the archdiocese of Zaragoza. As Alfonso held the see as a minor administrator, government was exercised through vicars general; the individual meant here is not yet identified."
   },
   {
-   "id": "n007",
-   "anchor": {
-    "para": "s001-01",
-    "lemma": "Sed quia",
-    "side": "la"
-   },
-   "type": "textual",
-   "status": "certain",
-   "text": "Printed *q* with the r-rotunda-shaped sign (qꝛ), the standard abbreviation for *quia* (cf. Cappelli)."
-  },
-  {
    "id": "n008",
    "anchor": {
     "para": "s001-01",
@@ -615,28 +604,6 @@
    "type": "textual",
    "status": "certain",
    "text": "B: *tibi reuerendissimo pontifici* (om. *et illustrissimo*)."
-  },
-  {
-   "id": "n060",
-   "anchor": {
-    "para": "s001-02",
-    "lemma": "theologica Scoti doctrina",
-    "side": "la"
-   },
-   "type": "textual",
-   "status": "certain",
-   "text": "B: *theologia scoti. doctrina* (with a stop), apparently a misreading of A’s adjective."
-  },
-  {
-   "id": "n061",
-   "anchor": {
-    "para": "s001-02",
-    "lemma": "pro fugata",
-    "side": "la"
-   },
-   "type": "textual",
-   "status": "certain",
-   "text": "B prints *profugata* as one word. Read either way the sense is ‘that, negligence being put to flight, I should no longer hold back’."
   },
   {
    "id": "n062",
