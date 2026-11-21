@@ -96,8 +96,8 @@
     "side": "la"
    },
    "type": "textual",
-   "status": "uncertain",
-   "text": "Printed *mortaliū*. Grammar expects *omnes mortales* (subject of *indicant*); possibly a compositor’s error, or an ellipse (*omnes mortalium [linguae]*). Kept as printed; translated as if *mortales*. B has the same *mortaliū iudicant*, so the anomaly is not a Toulouse misprint; B’s *iudicant* (‘judge’) is the better verb (A *indicant*, ‘declare’; both make sense)."
+   "status": "certain",
+   "text": "Printed *mortaliū*. Grammar expects *omnes mortales* (subject of *iudicant*); possibly a compositor’s error, or an ellipse (*omnes mortalium [linguae]*). Kept as printed; translated as if *mortales*. B has the same *mortaliū iudicant*, so the anomaly is not a Toulouse misprint."
   },
   {
    "id": "n014",
