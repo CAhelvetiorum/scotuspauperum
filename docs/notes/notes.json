@@ -53,7 +53,7 @@
    },
    "type": "textual",
    "status": "verified",
-   "text": "Tilde missing. B prints *sūmulatim* (= *summulatim*)."
+   "text": "Tilde missing. B prints *sūmulatim*."
   },
   {
    "id": "n010",
@@ -97,7 +97,7 @@
    },
    "type": "textual",
    "status": "certain",
-   "text": "Printed *mortaliū*. Grammar expects *omnes mortales* (subject of *iudicant*); possibly a compositor’s error, or an ellipse (*omnes mortalium [linguae]*). Kept as printed; translated as if *mortales*. B has the same *mortaliū iudicant*, so the anomaly is not a Toulouse misprint."
+   "text": "Printed *mortaliū*. Grammar expects *omnes mortales* (subject of *iudicant*); possibly a compositor’s error, or an ellipse (*omnes mortalium [linguae]*). Kept as printed; translated as if *mortales*. B has the same *mortaliū iudicant*."
   },
   {
    "id": "n014",
@@ -130,7 +130,7 @@
    },
    "type": "textual",
    "status": "uncertain",
-   "text": "A: *antistitum* (a noun formed from *antistare* ('to excel'), 'pre-eminence'?. We follow B's reading *antistitum* (‘of prelates’)."
+   "text": "A: *antistatum* (a noun formed from *antistare* ('to excel'), 'pre-eminence'? We follow B's reading *antistitum* (‘of prelates’)."
   },
   {
    "id": "n019",
@@ -199,17 +199,6 @@
    "text": "Peter Lombard, *Sententiae in IV libris distinctae*. The text Gorris abridges is Scotus’s *Ordinatio* (*Opus Oxoniense*): his lemmata in the Prologue reproduce its wording verbatim, e.g. *Dicta tamen responsio ad secundam rationem* (§s003-08 = *Ord.* prol. n. 80), *Alia datur responsio quod ex solis maioribus* (§s003-09 = n. 85), *Ad primum distinguo de obiecto naturali* (§s003-10 = n. 90). Which printed or manuscript form of the *Ordinatio* he used remains to be established (note that his argument-numbering is one lower than the Vatican edition’s)."
   },
   {
-   "id": "n025",
-   "anchor": {
-    "para": "s002-01",
-    "lemma": "Quanquam",
-    "side": "la"
-   },
-   "type": "textual",
-   "status": "certain",
-   "text": "A space was left by the printer for the initial, supplied in this copy by hand as a red *Q* (likewise the red *C* at §s003-01)."
-  },
-  {
    "id": "n026",
    "anchor": {
     "para": "s002-01",
@@ -243,17 +232,6 @@
    "text": "‘Those who travel’: plausibly wandering scholars or mendicants who cannot carry a library; Gorris returns to them at §s002-02."
   },
   {
-   "id": "n029",
-   "anchor": {
-    "para": "s002-02",
-    "lemma": "Eas ob res",
-    "side": "la"
-   },
-   "type": "textual",
-   "status": "certain",
-   "text": "Divided in the print across a line-break (*ob | res*); not *obres*."
-  },
-  {
    "id": "n030",
    "anchor": {
     "para": "s002-02",
@@ -262,18 +240,7 @@
    },
    "type": "textual",
    "status": "uncertain",
-   "text": "Printed *Citacoꝝ*. Unidentified. Possibly for *psittacorum*/*sitacorum* (‘of parrots’), hence the hesitant translation; *cicadarum* is palaeographically less likely. The bee-image of gathering flowers into one place is a classical commonplace for compilation (Seneca, *Ep.* 84; Macrobius, *Saturnalia*, praef.). B prints the same unintelligible form, so the crux goes back to the copy-text and is not resolved by collation."
-  },
-  {
-   "id": "n031",
-   "anchor": {
-    "para": "s002-02",
-    "lemma": "preeligendos",
-    "side": "la"
-   },
-   "type": "textual",
-   "status": "verified",
-   "text": "*p* with a superscript stroke: read *pre-* (*preeligendos*, ‘to be picked out’); *per-* (*perlegendos*) is not excluded. B: *preeligendos* in full, confirming the reading."
+   "text": "Possibly for *psittacorum*/*sitacorum* (‘of parrots’). The bee-image of gathering flowers into one place is a classical commonplace for compilation (Seneca, *Ep.* 84; Macrobius, *Saturnalia*, praef.)."
   },
   {
    "id": "n032",
@@ -317,7 +284,7 @@
    },
    "type": "textual",
    "status": "certain",
-   "text": "First word of p. 4, printed thus: = *hortor*, without the aspirate."
+   "text": "Sic! = *hortor*?"
   },
   {
    "id": "n036",
@@ -339,7 +306,7 @@
    },
    "type": "textual",
    "status": "verified",
-   "text": "The type appears to read *fouoris*: either a misprint or a damaged *a*. Read *fauoris*. B: *fauoris*, confirming the reading."
+   "text": "A: *fouoris*. We follow B: *fauoris*."
   },
   {
    "id": "n038",
