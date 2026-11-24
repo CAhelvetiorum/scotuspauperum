@@ -430,17 +430,6 @@
    "text": "The *Filioque*: procession of the Holy Spirit from Father and Son (Lombard, *Sent.* I d. 11)."
   },
   {
-   "id": "n049",
-   "anchor": {
-    "para": "s003-h",
-    "lemma": "Prologus",
-    "side": "la"
-   },
-   "type": "historical",
-   "status": "certain",
-   "text": "Beginning of the commentary proper (p. 6, verso). Headed *Prologus*; hand-supplied red initial *C* at the start of the question. B adds no separate heading here."
-  },
-  {
    "id": "n050",
    "anchor": {
     "para": "s003-01",
@@ -482,7 +471,7 @@
    },
    "type": "translation",
    "status": "certain",
-   "text": "*ens inquantum ens*, the first (adequate) natural object of the intellect for Scotus; rendered ‘being *qua* being’."
+   "text": "*ens inquantum ens*, the first (adequate) natural object of the intellect for Scotus."
   },
   {
    "id": "n054",
