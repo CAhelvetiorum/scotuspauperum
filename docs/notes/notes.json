@@ -624,8 +624,8 @@
     "side": "la"
    },
    "type": "historical",
-   "status": "to-verify",
-   "text": "Henry of Ghent (d. 1293), *doctor solemnis*. ‘Sorbonist’ is a late-medieval tag (he was associated with the Sorbonne milieu and a benefactor of it is sometimes claimed); Gorris’s etymology ‘from his college … from his homeland’ is his own. [Checked: no further evidence sought beyond standard reference works; the Sorbonne connection is not documented in Henry’s Summa or Quodlibeta. Remains open.]"
+   "status": "certain",
+   "text": "Henry of Ghent (d. 1293), *doctor solemnis*. ‘Sorbonist’ is a late-medieval tag (he was associated with the Sorbonne milieu and a benefactor of it is sometimes claimed); Gorris’s etymology ‘from his college … from his homeland’ is his own."
   },
   {
    "id": "n071",
@@ -636,7 +636,7 @@
    },
    "type": "textual",
    "status": "certain",
-   "text": "B: *quedam incipit*, ‘a certain [argument] begins’, and prints *in scoto* for A’s *in Scoto*. Gorris refers to the opening of Scotus’s rebuttal, *Ord.* prol. n. 43 ff."
+   "text": "B: *quedam incipit*, ‘a certain [argument] begins’. Gorris refers to the opening of Scotus’s rebuttal, *Ord.* prol. n. 43 ff."
   },
   {
    "id": "n072",
@@ -658,7 +658,7 @@
    },
    "type": "textual",
    "status": "certain",
-   "text": "B: *Quinto arguitur sic. Omne agens*, agreeing with the *Ordinatio* (n. 51); A’s *nullum* is a slip."
+   "text": "B: *Quinto arguitur sic. Omne agens*, agreeing with the *Ordinatio* (n. 51); A’s *nullum* is a slip?"
   },
   {
    "id": "n074",
@@ -680,7 +680,7 @@
    },
    "type": "source",
    "status": "to-verify",
-   "text": "William of Ware OFM (fl. c. 1290–1305), Scotus’s supposed master, *In I Sent.*, prol. q. 2 (unedited; numbered differently in the manuscripts). Gorris names Ware constantly as Scotus’s silent interlocutor, an important testimony to how fifteenth-century Scotists read the *Ordinatio*. [Checked: Henry’s argument is *Summa* a. 3 q. 4 (‘Utrum contingat hominem scire omnia ex puris naturalibus’), ed. Badius (Paris 1520) via SCTA: ‘ab agente per instrumentum non potest procedere actio ad quam instrumentum se extendere non potest … lumine naturali … limitatum est’. Ware, *In I Sent.* prol. q. 2, is unedited and could not be checked; status stays open for that half.]"
+   "text": "William of Ware OFM (fl. c. 1290–1305), Scotus’s supposed master, *In I Sent.*, prol. q. 2 (?). Gorris names Ware constantly as Scotus’s silent interlocutor, an important testimony to how fifteenth-century Scotists read the *Ordinatio*. Henry’s argument is *Summa* a. 3 q. 4 (‘Utrum contingat hominem scire omnia ex puris naturalibus’), ed. Badius (Paris 1520) via SCTA: ‘ab agente per instrumentum non potest procedere actio ad quam instrumentum se extendere non potest … lumine naturali … limitatum est’. Ware, *In I Sent.* prol. q. 2, has yet to be compared with."
   },
   {
    "id": "n076",
@@ -713,7 +713,7 @@
    },
    "type": "source",
    "status": "to-verify",
-   "text": "Godfrey of Fontaines, *Quodlibet* XIV? Godfrey’s quodlibets number fifteen; the locus is not yet identified. B prints the reference without *seu c. 9*. [Checked: Godfrey, *Quodl.* XIV in Hoffmans’s edition (Philosophes Belges V, 1932–35, archive.org) has only 5 qq.; q. 4 is ‘Utrum praeter iustitiam sit alia virtus appetitiva generalis’ (p. 357), unrelated. Searches of Quodl. XI–XIV for the habitus/forma/*principia activa* argument and the ‘terra rotunda’ example found nothing. Godfrey VIII–X not searched in full. Still open; ‘c. 9’ may reflect a different division.]"
+   "text": "Godfrey of Fontaines, *Quodlibet* XIV? Godfrey’s quodlibets number fifteen; the locus is not yet identified. B prints the reference without *seu c. 9*. Godfrey, *Quodl.* XIV in Hoffmans’s edition (Philosophes Belges V, 1932–35, archive.org) has only 5 qq.; q. 4 is ‘Utrum praeter iustitiam sit alia virtus appetitiva generalis’ (p. 357), unrelated. Quodl. XI–XIV does not seem to contain the habitus/forma/*principia activa* argument, nor the ‘terra rotunda’ example. Perhaps it is in Godfrey VIII–X? ‘c. 9’ may reflect a different division."
   },
   {
    "id": "n079",
@@ -724,7 +724,7 @@
    },
    "type": "textual",
    "status": "conjecture",
-   "text": "A prints *ppositiuo* (*p* with stroke). The form is meaningless as it stands. B reads *ex ppositio in .i. parte sum.*, i.e. *ex proposito in prima parte summe*, ‘expressly in the first part of the *Summa*’, which the translation adopts. Alternatively *Praepositiuo*, i.e. Praepositinus of Cremona’s *Summa*; but the ‘first part of the *Summa*’ strongly suggests Thomas again (*ST* I q. 1). Cf. *Ord.* prol. n. 84."
+   "text": "A prints *p[ro]positiuo*. The form is meaningless as it stands. B reads *ex p[ro]positio in .[pr]i[ma]. parte sum.*, ‘expressly in the first part of the *Summa*’, which the translation adopts. Alternatively *Praepositiuo*, i.e. Praepositinus of Cremona’s *Summa*; but the ‘first part of the *Summa*’ strongly suggests Thomas again (*ST* I q. 1). Cf. *Ord.* prol. n. 84."
   },
   {
    "id": "n080",
@@ -757,7 +757,7 @@
    },
    "type": "source",
    "status": "verified",
-   "text": "Augustine, *De Trinitate* XV.27.50 (the last chapter, as Gorris says): *Quae igitur causa est cur acie fixa ipsam videre non possis nisi utique infirmitas, et quis eam tibi fecit nisi utique iniquitas?* Gorris quotes freely (*possumus*, *non nisi*). Scotus does not cite this text here; it is Gorris’s own addition. Checked against the Latin Library text of *De Trin.* XV."
+   "text": "Augustine, *De Trinitate* XV.27.50 (the last chapter, as Gorris says): *Quae igitur causa est cur acie fixa ipsam videre non possis nisi utique infirmitas, et quis eam tibi fecit nisi utique iniquitas?* Gorris quotes freely (*possumus*, *non nisi*). Scotus does not cite this text here; it is Gorris’s own addition."
   },
   {
    "id": "n083",
@@ -767,7 +767,7 @@
     "side": "la"
    },
    "type": "source",
-   "status": "verified",
+   "status": "certain",
    "text": "Summary of *Ord.* prol. nn. 57–62, Scotus’s distinction of natural and supernatural by comparison of the receptive power to the act received and to the agent; ‘God begets’, ‘God is three and one’ are Scotus’s examples."
   },
   {
@@ -778,7 +778,7 @@
     "side": "la"
    },
    "type": "source",
-   "status": "verified",
+   "status": "certain",
    "text": "Cf. *Ord.* prol. n. 90 ff. (reply to the first argument): the intellect can know God under the general concept of being, but not under the proper concept of deity."
   },
   {
@@ -801,7 +801,7 @@
    },
    "type": "translation",
    "status": "certain",
-   "text": "Translating the conjecture *ex proposito* (from B’s *ex ppositio*); see the Latin note on *propositiuo*."
+   "text": "Translating the conjecture *ex proposito* (from B’s *ex p[ro]positio*); see the Latin note on *propositiuo*."
   },
   {
    "id": "n087",
